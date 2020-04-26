@@ -18,3 +18,7 @@ plot5 <- ggplot(data= data, mapping= aes(x=Sex, y= Score, fill= factor(Age))) + 
 plot5
 plot6 <- ggplot(data, mapping = aes(x = BMI, fill= Sex)) + geom_density(alpha=.4)
 plot6
+plot7 <- ggplot(data = data, mapping = aes(x= BMI, y= weight, color= Height )) + geom_point() + facet_grid(facets =data$Sex ~ data$Smokes)
+plot7
+plot8 <- ggplot(data = data, mapping = aes(x = Sex, y = BMI, fill = factor(Age) )) + geom_boxplot() + facet_grid( ~ Smokes) + labs(fill = "Age")
+plot8
