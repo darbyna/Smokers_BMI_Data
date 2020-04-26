@@ -26,6 +26,12 @@ To visualize the data, it was necessary to construct a scatter plot, violin plot
 ### Figure 6
 ![](https://github.com/darbyna/Smokers_BMI_Data/blob/master/Figures/fig6.png?raw=true)
 
+### Figure 7 
+![](https://github.com/darbyna/Smokers_BMI_Data/blob/master/Figures/fig7.png?raw=true)
+
+### Figure 8 
+![](https://github.com/darbyna/Smokers_BMI_Data/blob/master/Figures/fig8.png?raw=true)
+
 If you have any questions regarding any of the figures, feel free to contact me at <u> ndarby2050@gmail.com </u>.
 
 ## Possible References
